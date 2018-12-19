@@ -26,9 +26,13 @@
 模拟十年：
 𝑊q_1 = 0.012631 h,𝑊q_2 = 0.1118465 h,𝑊q_3 = 1.10392767 h
 
-## 模拟实例
+## 模拟示例说明
 我们的一级病人为：![first-class patient](https://github.com/yukiiwong/Queuing-Model-with-Preemptive-Priorities/blob/master/1.jpg)
 
 我们的二级病人为：![second-class patient](https://github.com/yukiiwong/Queuing-Model-with-Preemptive-Priorities/blob/master/2.jpg)
 
 我们的三级病人为：![third-class patient](https://github.com/yukiiwong/Queuing-Model-with-Preemptive-Priorities/blob/master/3.jpg)
+
+过程图片示例：![sample](https://github.com/yukiiwong/Queuing-Model-with-Preemptive-Priorities/blob/master/1397.jpg)
+
+视频示例：[video](https://github.com/yukiiwong/Queuing-Model-with-Preemptive-Priorities/blob/master/camera_test.avi)
