@@ -36,3 +36,8 @@
 过程图片示例：![sample](https://github.com/yukiiwong/Queuing-Model-with-Preemptive-Priorities/blob/master/1397.jpg)
 
 视频示例：[video](https://github.com/yukiiwong/Queuing-Model-with-Preemptive-Priorities/blob/master/camera_test.avi)
+
+## Reference
+http://www.pythonware.com/products/pil/
+
+https://wenku.baidu.com/view/c7009ea40b1c59eef8c7b4f0.html
